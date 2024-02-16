@@ -49,4 +49,5 @@ def start_game():
 
     pygame.quit()
 
+
 start_game()
